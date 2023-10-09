@@ -1,0 +1,7 @@
+selenium
+requests
+emoji
+pyttsx3
+SpeechRecognition
+Pillow
+pytube
